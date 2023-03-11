@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4699fc2d.css",
-    "main.js": "/static/js/main.ba688955.js",
-    "index.html": "/index.html",
-    "main.4699fc2d.css.map": "/static/css/main.4699fc2d.css.map",
-    "main.ba688955.js.map": "/static/js/main.ba688955.js.map"
+    "main.css": "/MovieDB-React/static/css/main.4699fc2d.css",
+    "main.js": "/MovieDB-React/static/js/main.ba688955.js",
+    "index.html": "/MovieDB-React/index.html",
+    "main.4699fc2d.css.map": "/MovieDB-React/static/css/main.4699fc2d.css.map",
+    "main.ba688955.js.map": "/MovieDB-React/static/js/main.ba688955.js.map"
   },
   "entrypoints": [
     "static/css/main.4699fc2d.css",
